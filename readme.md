@@ -2,6 +2,8 @@
 
 [Функциональные требования по разработке](functional_requirements.md)
 
+### Как установить
+
 1. Выполнить клонирование репозитория
 > git clone https://github.com/iodko/interview_api.git
 
